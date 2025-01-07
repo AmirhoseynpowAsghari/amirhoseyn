@@ -1,4 +1,0 @@
-http://localhost, sesajad.me {
-  root * /dist
-  file_server browse
-}
